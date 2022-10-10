@@ -7,8 +7,6 @@
 **Link to work**: [Cat Photo App](https://github.com/zahrodirie/100DaysOfFilanTechCode/tree/main/HTML_CSS)
 
 
-# 100 Days Of FilanTech Code Challenge - Log [Zahro Ahmed Dirie]
-
 ### Day 2: October 8, 2022
 
 **Today's Progress**: I read 10 chapters of HTML & CSS book by Jon Duckett. 
