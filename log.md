@@ -14,4 +14,4 @@
 **Today's Progress**: I read 10 chapters of HTML & CSS book by Jon Duckett. 
 i also run examples whith these10 chapters
 
-**Link to work**: [Cat Photo App](https://github.com/zahrodirie/100DaysOfFilanTechCode/tree/main/HTML_CSS)
+**Link to work**: [Run Examples](https://github.com/zahrodirie/100DaysOfFilanTechCode/tree/main/HTML_CSS)
